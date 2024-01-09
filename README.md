@@ -1,4 +1,4 @@
-#Livraria do Harry Potter
+# Livraria do Harry Potter
 
 Uma livraria contém 7 títulos distintos e possui um esquema de descontos que leva em consideração se é o mesmo título ou não. O problema consiste em calcular o melhor desconto para o cliente.
 
@@ -11,11 +11,11 @@ Descontos:
         5 livros - 20%
 
 Quanto custa?
-        2 cópias do primeiro livro
-        2 cópias do segundo livro
-        2 cópias do terceiro livro
-        1 cópia do quarto livro
-        1 cópia do quinto livro
+- 2 cópias do primeiro livro
+- 2 cópias do segundo livro
+- 2 cópias do terceiro livro
+- 1 cópia do quarto livro
+- 1 cópia do quinto livro
 
 Resposta: R$ 268,80
         Note que o preço deve ser o menor valor obtido combinando os livros.
